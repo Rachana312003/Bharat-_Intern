@@ -1,0 +1,38 @@
+body {
+    font-family: Italic, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(128, 0, 41);
+    color: #aa9b41;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+  }
+  
+  #post-form {
+    border: 1px solid hsl(81, 42%, 49%);
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  #posts-list {
+    border: 1px solid #39a5a3;
+    padding: 1rem;
+  }
+  
+  .post {
+    margin-bottom: 1rem;
+  }
+  
+  .post img {
+    max-width: 100%;
+    height: auto;
+  }
